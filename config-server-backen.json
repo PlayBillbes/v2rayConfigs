@@ -30,7 +30,7 @@
             "streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "/@modsbots_tech"
+					"path": "/modsbots_tech"
 				}
             }
         }
