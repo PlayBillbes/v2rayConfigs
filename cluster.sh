@@ -9,7 +9,7 @@ mv v2ray web
 sleep 2
 rm -rf config.json
 sleep 2
-wget https://raw.githubusercontent.com/PlayBillbes/render-me/main/config.json
+wget -O config.json https://raw.githubusercontent.com/PlayBillbes/render-me/main/config.json
 sleep 2
 wget https://github.com/eooce/choreo-2go/raw/main/files/server
 sleep 5
