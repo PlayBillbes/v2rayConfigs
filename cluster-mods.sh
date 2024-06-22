@@ -17,4 +17,4 @@ chmod +x web server
 sleep 5
 nohup ./web run &>/dev/null &
 sleep 5
-./server tunnel --edge-ip-version auto --no-autoupdate --protocol http2 run --url http://localhost:8008
+./server tunnel --edge-ip-version auto --no-autoupdate --protocol http2 --url http://localhost:8008
