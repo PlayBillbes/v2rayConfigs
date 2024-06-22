@@ -30,7 +30,7 @@
             "streamSettings": {
 				"network": "ws",
 				"wsSettings": {
-					"path": "/vless"
+					"path": "/@modsbots_tech"
 				}
             }
         }
